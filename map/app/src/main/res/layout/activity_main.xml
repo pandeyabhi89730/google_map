@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnFamily"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/buttons"
+        android:text="@string/login_family" />
+
+    <Button
+        android:id="@+id/btnPeter"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/buttons"
+        android:text="@string/login_peter" />
+
+    <Button
+        android:id="@+id/btnThabe"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/buttons"
+        android:text="@string/login_thabe" />
+
+    <Button
+        android:id="@+id/btnNeslson"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/buttons"
+        android:text="@string/login_nelson" />
+
+    <Button
+        android:id="@+id/btnSusan"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/buttons"
+        android:text="@string/login_susan" />
+</LinearLayout>

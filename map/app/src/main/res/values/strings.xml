@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">google_map</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="login_peter">Login Peter</string>
+    <string name="login_thabe">Login Thabe</string>
+    <string name="login_nelson">Login Nelson</string>
+    <string name="login_susan">Login Susan</string>
+    <string name="login_family">login Family</string>
+</resources>
